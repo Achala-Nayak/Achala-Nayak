@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achala-nayak&show_icons=true&locale=en&layout=compact" alt="achala-nayak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achala-nayak&" alt="achala-nayak" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achala-nayak&" alt="achala-nayak" /></p>-->
